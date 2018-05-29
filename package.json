@@ -1,0 +1,22 @@
+{
+  "name": "node_scraping_pokemon_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1ya/node_scraping_pokemon_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1ya/node_scraping_pokemon_bot/issues"
+  },
+  "homepage": "https://github.com/m1ya/node_scraping_pokemon_bot#readme",
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.3"
+  }
+}
